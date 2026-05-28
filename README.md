@@ -17,4 +17,5 @@
 | [NLP](11.%20NLP) | Определение негативных комментариев | `NLTK` `Pandas` `NumPy` `Sklearn` | `ML`<br>`NLP_basics`|
 | [Computer vision](12.%20CV) | Построение свёрточной нейронной сети на основе архитектуры ResNet50 на Keras для распознавания возраста покупателя | `Tensorflow.Keras` `Pandas` `NumPy` `Matplotlib` | `Data Analysis`<br>`CV_basics` |
 | [Оптимизация производства стали](13.%20Final%20project%20\(steel%20production\)) | Построение модели машинного обучения для оптимизации потребления электроэнергии при производстве стали путём предсказания температуры | `Pandas` `NumPy` `Matplotlib` `Seaborn` `Phik` `Sklearn` `Catboost` | `ML` |
+| [ВУЗовская лаба по Keras и CNN (LeNet на MNIST)](uni_cnn_MNIST_LeNet_proj) | Лабораторная работа из ВУЗа, в которой строятся нейронные сети в Keras и реализуется свёрточная сеть на основе архитектуры LeNet для распознавания рукописных цифр датасета MNIST | `Pandas` `NumPy` `Matplotlib` `Seaborn` `Tensorflow.Keras` | `ML`<br>`CNN`|
 
